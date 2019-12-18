@@ -13,12 +13,12 @@ export default class Header extends React.Component{
                     <div class="L1">Recent Advances in Information Technology 2020</div>
                     <div class="L2">Department of Computer Science and Engineering</div>
                     <div class="L2">Indian Institute of Technology (Indian School of Mines), Dhanbad</div>
-                    <div class="L3">XX-XX Month Year - Dhanbad, India</div>
+                    <div class="L3">December 11-12, 2020 - Dhanbad, India</div>
                 </div>
                 <div class="flex-container3">
                     <div class="image">
                         <a href="https://www.ieee.org/" target="_blank">
-                        <img class="img2" src="http://www.ieee-inertial.org/sites/2018.ieee-inertial.org/files/styles/large/public/images/logos/IEEE-logo-%5BConverted%5D.png?itok=FAI2BPOs" alt="IEEE logo" />
+                        <img class="img2" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/5765/brand.gif?itok=mJAfl79W" alt="IEEE logo" />
                         </a>
                     </div>
 
